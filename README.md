@@ -17,6 +17,7 @@ Another goal of this project is to show my skills and creativty as a whole, as w
 
 The main page will be composed of a carousel about the latest and most popular series on the website.
 Right under it, you'll find the cards of the most recent updated/posted stories on the website. Those cards will feature an image, with some info about the chapter: the series it's from, its author, the date of publication, the chapter number and the sum up of the story up until that point.
+When you will press on a card, it will pop-up so you can directly access the latest chapter's content without charging another page.
 There will also be a recommended section, where you'll get some series or author recommended to you, based on what you've read.
 Finally, you'll get an imbeded tweeter feed to keep track of the latest news related to the platform.
 
