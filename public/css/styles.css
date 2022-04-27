@@ -1,5 +1,9 @@
 /* general */
 
+h6 {
+  color: black;
+}
+
 body {
   background-color: #f32f2f;
 }
@@ -14,6 +18,21 @@ body {
   padding: 0rem;
 }
 
+.nav-link {
+  display: flex;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  justify-content: flex-end;
+}
+
 /* body */
 
 /* footer */
+
+.footer {
+  color: black;
+}
+
+.footer-icons {
+  color: black;
+}
