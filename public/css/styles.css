@@ -6,6 +6,14 @@ body {
 
 /* header */
 
+.header-icons {
+  color: black;
+}
+
+.navbar {
+  padding: 0rem;
+}
+
 /* body */
 
 /* footer */
